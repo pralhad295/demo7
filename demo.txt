@@ -1,1 +1,2 @@
 demo code for trying the git 
+Inserting new code for testing of demo7 repository
